@@ -57,8 +57,6 @@ Django_sspenl 是用django作为后端框架，开发的一个Shadowsocks网络�
 * 对数据库直接管理的Django后台：  
 ![](http://opj9lh0x4.bkt.clouddn.com/17-9-17/10484526.jpg)
 
-剩下的就不一一截图了
-
 
 ## 项目组件
 
@@ -78,6 +76,8 @@ Django_sspenl 是用django作为后端框架，开发的一个Shadowsocks网络�
 * Markdown <https://pypi.python.org/pypi/Markdown>
 * alipay(支付宝插件) <https://github.com/fzlee/alipay>
 
-## 部署步骤：
+## 部署教程：
 
-点这里: [部署教程](https://github.com/Ehco1996/django-sspanel/wiki/%E9%9D%A2%E6%9D%BF%E9%83%A8%E7%BD%B2)
+硬核版: [部署教程](https://github.com/Ehco1996/django-sspanel/wiki/%E9%9D%A2%E6%9D%BF%E9%83%A8%E7%BD%B2)
+
+萌新版: [部署教程](https://github.com/Ehco1996/django-sspanel/wiki/%E9%9D%A2%E6%9D%BF%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B-%E8%90%8C%E6%96%B0%E7%89%88)
